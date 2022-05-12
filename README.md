@@ -1,6 +1,7 @@
 # TravaManopla
 
-Configurações para impressão
+Configurações para impressão:
+
 
 Infill - 40%
 
